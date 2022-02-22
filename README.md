@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a Big Data Engineer
-- 🔭 Working on data engineering projects
+I am a Angular web developer
+- 🔭 Working on Frelance angular projects
 
 
 <br>
@@ -13,7 +13,7 @@ I am a Big Data Engineer
 <br>
 
 ## Expertise
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
