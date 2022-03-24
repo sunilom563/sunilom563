@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Freelancer web developer.
 - 🌱 &nbsp; Learning more about Big data and cloud platform.
-- ✍️ &nbsp; reading non-fiction books as hobbies/side hustles..
+- ✍️ &nbsp; reading non-fiction books as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
