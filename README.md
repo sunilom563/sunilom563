@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Sunil Om a  Front end Angular developer.</h2>
+<h2> Hey there! I'm Sunil Om a  Front end developer.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
